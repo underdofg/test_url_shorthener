@@ -1,9 +1,9 @@
 ## How to run this project 
 
 1. Build file javascript ,html 
+
 ```
 npm run build
-
 ```
 2. Build css file
 ```
