@@ -1,0 +1,12 @@
+:root {
+    --background-gray:  #f1f1f1;
+    --background-white: #fff;
+
+    --margin-s: 4px;
+    --margin-m: 8px;
+    --margin-l: 12px;
+}
+
+html {
+     font-family: Roboto , sans-serif;
+}

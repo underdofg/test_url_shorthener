@@ -1,0 +1,26 @@
+.shortUrl-containers {
+    margin: var(--margin-l);
+}
+
+.form-container {
+    padding: 2px 4px;
+    display: flex;
+    align-items: center;
+    width: 500px;
+}
+
+.form-input {
+    flex: 1;
+    margin-right: 10px;
+    background-color: azure;
+}
+
+.table-containers {
+    margin-top: 15px;
+    width: auto;
+    max-width: 40rem;
+}
+
+.header-table {
+    background-color: bisque;
+}
